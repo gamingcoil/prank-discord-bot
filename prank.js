@@ -29,4 +29,4 @@ client.on('message', message => {
 	}
 });
 
-client.login(mySecret);
+client.login('mySecret');
